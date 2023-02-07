@@ -383,31 +383,27 @@ export const TeamMember = [
     img: HomeDemo2TeamImg5,
     title: "Rodrigo Bastos",
     text: "COO and Founder",
-    telegramslug:'rodrigocruxcrypto',
+    telegramslug:'rodrigobastoscrux',
   },
   {
     img: HomeDemo2TeamImg3,
     title: "Luís Nunes",
     text: "CTO and Co-Founder",
-    telegramslug:'luiscrux',
   },
   {
     img: HomeDemo2TeamImg4,
     title: "Paulo Correia",
     text: "Lead 3D Artist",
-    telegramslug:'paulocrux',
   },
   {
     img: HomeDemo2TeamImg2,
     title: "Vitor Lopes",
     text: "Web Developer",
-    telegramslug:'vitorcrux',
   },
   {
     img: HomeDemo2TeamImg1,
     title: "Rui Mira",
     text: "3D Developer",
-    telegramslug:'ruicruxcryptos',
   },
 ];
 
